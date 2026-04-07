@@ -105,3 +105,5 @@ This project follows **Saudi Personal Data Protection Law (PDPL)** principles:
 - **Certification:** IBM Data Analyst Professional Certificate | Unnati 'Business Associate' Certificate
 - **Skills:** Python, Pandas, Matplotlib, Dash, Excel, SQL, Problem Solving 
 - **Email:** bsadaf.official@gmail.com
+- **LinkedIn:** www.linkedin.com/in/bushra-sadaf
+- **Upwork:** https://www.upwork.com/freelancers/~01a5bd0aff870bd800
